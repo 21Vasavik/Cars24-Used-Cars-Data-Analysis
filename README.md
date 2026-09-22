@@ -79,12 +79,16 @@ Business Insights
 - Monitor market trends regularly using dashboards.
 
 ## 📊 Dashboard
-"C:\Users\vasav\OneDrive\Pictures\Screenshots\Screenshot 2026-09-22 213720.png"
+<img width="1077" height="582" alt="Screenshot 2026-09-22 213720" src="https://github.com/user-attachments/assets/ee1c2316-84cf-4cc0-aee9-9545cea2aa04" />
+
+
 ## 👤 Author
 
 Vasavi Karraiah
+
 MCA Graduate | Data Analytics & Data Science
 
 LinkedIn: www.linkedin.com/in/vasavi-karraiah-477800377
+
 GitHub: https://github.com/21Vasavik
 
